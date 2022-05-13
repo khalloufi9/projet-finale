@@ -1,0 +1,118 @@
+.Navbar
+{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+img{width: 110px;
+margin-left: 10px;  }
+
+input
+{
+    border-radius: 10px;
+    width: 500px;
+}
+.division
+{
+display: flex;
+margin-left: 70px;
+margin-right: 70px;
+}
+
+.Compte{
+display: flex;
+flex-direction: column;
+margin-left: 20px;
+}
+.valid_search {
+    border: 1px solid #363636;
+    background: none;
+    height: 35px;
+    width: 40px;
+    font-size: 24px;
+    border-left: none;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.search{
+    height: 35px;
+    width: 40px;
+}
+
+.chercher
+{display: flex;
+}
+
+.logo{
+    width:50px;
+}
+label
+{
+    
+    font-size: x-small
+}
+
+.navbar
+{
+    border-radius: 8px;
+}
+
+.imagebody{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.logos {
+    width: 50px;
+}
+
+h4{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+p{
+   font-size: medium;
+   font-weight: 300;
+   font-style: inherit;
+   
+}
+
+footer>p{
+    color: aliceblue;
+}
+.card > img{
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 300px;
+    border-radius: 5px;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: none
+    ;
+    
+}
+
+footer
+{
+    background-color:#161a1d;
+  
+    margin-top: 10px;
+    padding: 5px;
+}

@@ -1,0 +1,58 @@
+.cadree{
+   
+    border: thick double gray;
+    width:1000px;
+    height: 150px;
+    margin-left: 70px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.cadree>img{
+    width:120px;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+spans{
+    font: 700 20px robotoc,Arial Narrow,sans-serif;
+    
+}
+
+.form
+{
+    padding: 20px;
+    text-align: start;
+    font-size: smaller ;
+}
+
+.form>a{
+    color: red;
+}
+.prix{
+    display: flex;
+    flex-direction: row;
+     text-align: center;
+     align-items: center;
+     margin-left: 450px;
+}
+
+.prix>h4{
+    font: 700 16px robotoc,Arial Narrow,sans-serif;
+    text-decoration: line-through;
+    color: #ff2157;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+.prix>h5{
+  
+    font: 700 16px robotoc,Arial Narrow,sans-serif;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
